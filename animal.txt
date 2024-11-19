@@ -1,0 +1,6 @@
+ANIMAL
+1.dog
+2.cat
+3.tiger
+4.dinosaur
+5.giraffe
