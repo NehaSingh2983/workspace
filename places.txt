@@ -1,0 +1,4 @@
+PLACES
+1.goa
+2.assam
+3.kerala
