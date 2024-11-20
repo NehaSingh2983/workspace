@@ -4,3 +4,4 @@ ANIMAL
 3.tiger
 4.dinosaur
 5.giraffe
+6.rat
