@@ -3,3 +3,5 @@ ROLE
 2.tester
 3.analyst
 4.data scientist
+5.IT support
+6.non technical
